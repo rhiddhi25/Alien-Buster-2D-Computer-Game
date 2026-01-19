@@ -24,4 +24,4 @@ Check out the code progress [here](https://drive.google.com/file/d/1kqN0WflisoQS
 ---
 
 ## Final Report
-Check out the finalised report [here]([YOUR_FINAL_PHASE_DRIVE_LINK_HERE](https://drive.google.com/file/d/11F1O51v58h9-mm3WIlXOonG_Fq9vW-du/view?usp=sharing))
+Check out the finalised report [here](https://drive.google.com/file/d/11F1O51v58h9-mm3WIlXOonG_Fq9vW-du/view?usp=sharing)
